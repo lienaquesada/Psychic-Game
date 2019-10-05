@@ -1,0 +1,19 @@
+h1{
+color: #29088A;
+}
+body {
+    padding-left: 450px;
+}
+img{
+    padding-left: 95px;
+}
+h3{
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 640px) {
+    body {
+      padding-left: 0px;
+    }
+  }
+  
